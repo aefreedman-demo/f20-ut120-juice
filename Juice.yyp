@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"obj_particle_rain","path":"objects/obj_particle_rain/obj_particle_rain.yy",},"order":0,},
+    {"id":{"name":"obj_particle_snow","path":"objects/obj_particle_snow/obj_particle_snow.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
