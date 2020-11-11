@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"obj_particle_fire","path":"objects/obj_particle_fire/obj_particle_fire.yy",},"order":2,},
     {"id":{"name":"obj_particle_rain","path":"objects/obj_particle_rain/obj_particle_rain.yy",},"order":0,},
+    {"id":{"name":"obj_particle_custom","path":"objects/obj_particle_custom/obj_particle_custom.yy",},"order":3,},
     {"id":{"name":"obj_particle_snow","path":"objects/obj_particle_snow/obj_particle_snow.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
